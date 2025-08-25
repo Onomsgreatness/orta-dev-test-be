@@ -8,6 +8,8 @@ This is the backend system for the **Shift Manager** application, built with **N
 - 📄 Auto-generated API docs using Swagger (OpenAPI 3.0)
 
 ---
+# Onome's Features implentaion
+  Here, I extended the backend API to support the CRUD functionality by udating shiftRoute.js and added a new file shiftController.js allowing the backend to Get, Update, Read and Delete data.
 
 ## 📂 Folder Structure
 
