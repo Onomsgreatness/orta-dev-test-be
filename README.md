@@ -35,7 +35,7 @@ orta-dev-test-be/
 
 ```bash
 git clone https://github.com/Wahhab1801/orta-dev-test-be.git
-cd orta-dev-test-be
+cd orta-dev-test-be](https://github.com/Onomsgreatness/orta-dev-test-be/tree/feature/shift-crud)
 ```
 
 ### 2. Install dependencies
